@@ -37,7 +37,7 @@ The goal of this project is to demonstrate:
    - Accuracy Score  
    - Confusion Matrix  
    - Classification Report  
-
+7. **ROC, AUC curve**
 ---
 
 ##  Results
